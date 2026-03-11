@@ -82,8 +82,18 @@ Before installation make sure you have:
 ---
 
 ## 🚀 Installation Guide
+### Step 1: Get the project files
 
-### Step 1: Flash the firmware
+1. **Download the project files** using one of the following methods:
+
+   * Clone the repository:
+     ```bash
+     git clone https://github.com/Grovety/Meeting-Room.git
+     ```
+   * Or download the ZIP archive from GitHub and extract it to a convenient folder on your computer
+
+
+### Step 2: Flash the firmware
 
 1. **Connect the board to your computer** via a USB-C cable.
 
