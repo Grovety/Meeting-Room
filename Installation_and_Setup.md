@@ -12,7 +12,7 @@ ___
    
    ___
 
-[**3. Development Installation**](https://github.com/Grovety/Meeting-Room/edit/main/Installation_and_Setup#-development-installation-repository)
+[**3. Development Installation**](https://github.com/Grovety/Meeting-Room/blob/main/Installation_and_Setup.md#-development-installation-repository)
 
    Clone the repository and build the firmware yourself.
 
