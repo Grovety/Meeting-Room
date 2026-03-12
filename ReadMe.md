@@ -13,7 +13,7 @@ The system provides an intuitive touch interface for managing a meeting room sch
 ## Installation and Setup
 
 Installation and setup take less than 5 minutes.
-See the detailed instructions here: https://github.com/Grovety/Meeting-Room/blob/main/Installation_and_Setup
+See the detailed instructions here: https://github.com/Grovety/Meeting-Room/blob/main/Installation_and_Setup.md
 ___
 
 
