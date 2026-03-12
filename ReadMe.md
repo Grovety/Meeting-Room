@@ -10,6 +10,49 @@ The application supports both hardware revisions (v1.0 and v1.1) and automatical
 The system provides an intuitive touch interface for managing a meeting room schedule, booking time slots, displaying weather information, and monitoring indoor air quality.
 
 ---
+___
+
+## Fast Installation
+1. Download the **Firmware.7z** archive: https://github.com/Grovety/Meeting-Room/blob/main/Firmware.7z
+
+<img width="973" height="411" alt="image" src="https://github.com/user-attachments/assets/e6af83df-8e80-4578-ab5f-175cfba058b5" />
+
+____
+
+
+<img width="973" height="309" alt="image" src="https://github.com/user-attachments/assets/37ae5bf2-a444-4056-aec5-bb5a19d5b828" />
+
+
+2. Extract the archive.
+3. Connect the **CrowPanel ESP32-S3** (5" or 7") to your PC.
+4. Run **Flashtool.exe** located in the extracted folder and wait until the installation is complete.
+
+<img width="441" height="91" alt="image" src="https://github.com/user-attachments/assets/6cc05146-ab30-4b1d-8727-89530ff47265" />
+
+___
+
+
+<img width="890" height="466" alt="image" src="https://github.com/user-attachments/assets/835aefde-05a4-455c-8ae8-7b4d18fa7846" />
+
+Once finished, the application should start automatically on the panel.
+
+5. Close the installer window to proceed to the setup.
+6. Restart the panel (disconnect the cable and connect it again).
+
+## Application Setup
+
+1. Download the configurator application: https://github.com/Grovety/Meeting-Room/blob/main/CrowPanelConfigurator.exe
+
+   <img width="827" height="265" alt="image" src="https://github.com/user-attachments/assets/4cfe740a-9fea-42d7-b106-19915b105cf1" />
+
+2.	Run **CrowPanelConfigurator.exe**.
+The configurator will open, and the panel’s connection port will be detected automatically.
+
+3. Go to **Step 3** of the Installation Guide: https://github.com/Grovety/Meeting-Room/edit/main/ReadMe.md#step-3-connect-to-wi-fi
+
+___
+___
+
 
 ## ⚙️ System Requirements
 
