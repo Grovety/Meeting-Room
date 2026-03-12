@@ -4,7 +4,7 @@ There are two ways to install the Meeting Room Panel software.
 
 ___
 
-[**1. Quick Installation (recommended)**](https://github.com/Grovety/Meeting-Room/edit/main/Installation_and_Setup#-quick-installation)
+[**1. Quick Installation (recommended)**](https://github.com/Grovety/Meeting-Room/blob/main/Installation_and_Setup.md#-quick-installation)
 
    Use the prebuilt firmware and installer. 
 
