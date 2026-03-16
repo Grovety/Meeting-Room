@@ -39,13 +39,32 @@ Steps
 
 ![photo_2026-03-12_13-27-49-2](https://github.com/user-attachments/assets/1699f5bc-5391-42a7-9649-38bbdfd0da74)
 
+____
+
+**Note:** After connecting the CrowPanel to your PC, you should hear the Windows sound indicating that a new USB device has been connected. 
+
+You can also verify the connection by opening **Device Manager** and checking that **a new COM port** appears. 
+
+Without this driver, **Flashtool** (used in the next step) will not detect the device.
+
+If no new COM port appears, you may need to install the USB-to-Serial driver:
+
+ - Go to https://www.silabs.com/developers/usb-to-uart-bridge-vcp-drivers
+ - Download the Windows 64-bit driver
+ - Install the driver following the vendor instructions
+ - Reboot your computer
+ - Reconnect the board — it should appear in Device Manager as a COM port.
+
+____
+
+
 
 5.	Run **Flashtool.exe** from the extracted folder and wait until the installation is complete.
 
 ___
 
    
-<img width="441" height="91" alt="image" src="https://github.com/user-attachments/assets/6cc05146-ab30-4b1d-8727-89530ff47265" /> 
+<img width="220" alt="image" src="https://github.com/user-attachments/assets/6cc05146-ab30-4b1d-8727-89530ff47265" /> 
 
 ________________________________________
 
@@ -150,7 +169,7 @@ git clone https://github.com/Grovety/Meeting-Room.git
 or download the ZIP archive from GitHub.
 
 ### Flash the firmware
-1.	Connect the board via USB-C
+1.	Connect the board via USB-C (install the [USB driver](https://www.silabs.com/developers/usb-to-uart-bridge-vcp-drivers) if the device is not detected)
 2.	Locate flash_tool.exe in the repository
 3.	Run the tool — it will automatically detect the COM port
 4.	Follow the on-screen instructions
@@ -227,14 +246,3 @@ Solution
 •	Reinsert the module and reboot the board
 
 ________________________________________
-
-
-## Installing the CP210x Driver
-If your computer does not recognize the board, install the USB-to-UART driver.
-1.	Go to
-https://www.silabs.com/developers/usb-to-uart-bridge-vcp-drivers
-2.	Download the Windows 64-bit driver
-3.	Install the driver following the vendor instructions
-4.	Reboot your computer
-5.	Reconnect the board — it should appear in Device Manager as a COM port.
-
