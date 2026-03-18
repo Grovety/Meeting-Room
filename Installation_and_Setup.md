@@ -89,6 +89,12 @@ Steps
 2.	Linking your Google Calendar
 3.	(Optional) Connecting the EnSens air quality module
 
+
+You can configure the panel using either the desktop application (see below) or a smartphone.
+For smartphone setup instructions, refer to:
+https://github.com/Grovety/Meeting-Room/blob/main/Setup_via_Smartphone.md
+
+## Application Setup with Desktop Application
    
 ### Connect to Wi-Fi
 1.	Download the configurator application: https://github.com/Grovety/Meeting-Room/raw/main/CrowPanelConfigurator.exe
