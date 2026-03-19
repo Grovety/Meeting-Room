@@ -62,7 +62,8 @@ ________________________________________
 
 
 4.	While connected to the panel’s network:
-o	Open the setup page by:
+
+Open the setup page by:
  - Scanning the second QR code, or
  - Entering the following address in your phone’s browser: **192.168.4.1**
 
