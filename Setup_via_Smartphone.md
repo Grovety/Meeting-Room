@@ -87,7 +87,7 @@ Open the setup page by:
 Paste the previously copied calendar link
 
 
-<img width="300" alt="image" src="https://github.com/user-attachments/assets/46784c9d-7631-412d-aeb2-b90434817684" />
+<img width="300" height="809" alt="565524973-46784c9d-7631-412d-aeb2-b90434817684" src="https://github.com/user-attachments/assets/e7e2eebe-7351-4493-b64e-1ae26cf59868" />
 
  
 
